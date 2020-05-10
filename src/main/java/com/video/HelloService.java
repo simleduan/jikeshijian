@@ -1,0 +1,1 @@
+package com.video;import org.springframework.context.annotation.Bean;import org.springframework.context.annotation.Configuration;@Configurationpublic class HelloService {    @Bean    public HelloService HelloService(){        System.out.println("配置了组件hello service");        return new HelloService();    }}
