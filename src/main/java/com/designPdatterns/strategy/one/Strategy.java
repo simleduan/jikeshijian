@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.one;public interface Strategy {    void algorithmInterface();}

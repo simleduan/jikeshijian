@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.two;/** * // 策略接口：EvictionStrategy * // 策略类：LruEvictionStrategy、FifoEvictionStrategy、LfuEvictionStrategy... */public interface EvictionStrategy {    void show();}

@@ -1,0 +1,1 @@
+package com.designPdatterns.template.one;public abstract class Shopping {    final void buy(){        welcome();        shopping();        jiezhang();    }    public void welcome(){        System.out.println("欢迎光临");    }    abstract void shopping();    public void jiezhang(){        System.out.println("欢迎下次光临");    }}

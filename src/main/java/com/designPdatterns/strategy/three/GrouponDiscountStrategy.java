@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.three;public class GrouponDiscountStrategy implements DiscountStrategy {    @Override    public double calDiscount(String order) {        System.out.println("GrouponDiscountStrategy");        return 0;    }}

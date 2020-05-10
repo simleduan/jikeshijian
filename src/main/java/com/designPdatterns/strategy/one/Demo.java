@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.one;public class Demo {    public static void main(String[] args) {    }}

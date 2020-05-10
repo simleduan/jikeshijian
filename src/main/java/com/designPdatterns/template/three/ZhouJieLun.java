@@ -1,0 +1,1 @@
+package com.designPdatterns.template.three;public class ZhouJieLun extends BeiPiaoLife {    @Override    void breakfast(String breakfast) {        System.out.println("breakfast");    }    @Override    void lunch(String lunch) {        System.out.println("lunch");    }    @Override    void dinner(String dinner) {        System.out.println("dinner");    }}

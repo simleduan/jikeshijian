@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.one;public class ConcreteStrategyA implements Strategy {    @Override    public void algorithmInterface() {        System.out.println("ConcreteStrategyA");    }}

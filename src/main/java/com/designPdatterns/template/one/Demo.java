@@ -1,0 +1,1 @@
+package com.designPdatterns.template.one;public class Demo {    public static void main(String[] args) {        new BoyShopping().buy();        new GirlShopping().buy();    }}

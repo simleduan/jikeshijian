@@ -1,0 +1,1 @@
+package com.designPdatterns.template.four;public class Zyl {    public void eat(WeekDayEat weekDayEat){//        weekDayEat.breakfast();        weekDayEat.lunch();    }}

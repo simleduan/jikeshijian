@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.three;public interface DiscountStrategy {    double calDiscount(String order);}

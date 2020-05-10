@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.three;public class OrderService {    public static void main(String[] args) {        DiscountStrategy normal = DiscountStrategyFactory.getDiscountStrategy("NORMAL");        normal.calDiscount("NORMAL");    }}

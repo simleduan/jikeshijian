@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.two;public class LfuEvictionStrategy implements EvictionStrategy {    @Override    public void show() {        System.out.println("LfuEvictionStrategy");    }}

@@ -1,0 +1,1 @@
+package com.designPdatterns.strategy.three;public class NormalDiscountStrategy implements DiscountStrategy {    @Override    public double calDiscount(String order) {        System.out.println("NormalDiscountStrategy");        return 0;    }}

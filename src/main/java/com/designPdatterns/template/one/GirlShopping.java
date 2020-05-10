@@ -1,0 +1,1 @@
+package com.designPdatterns.template.one;public class GirlShopping extends Shopping {    @Override    void shopping() {        System.out.println("girl 买了好多卫生巾");    }}

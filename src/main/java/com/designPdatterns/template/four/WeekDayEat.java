@@ -1,0 +1,1 @@
+package com.designPdatterns.template.four;public interface WeekDayEat {    void breakfast();    void lunch();    void dinner();}

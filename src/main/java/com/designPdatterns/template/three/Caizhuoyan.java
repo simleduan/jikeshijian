@@ -1,0 +1,1 @@
+package com.designPdatterns.template.three;public class Caizhuoyan {    public void process(String name,BeiPiaoLife beiPiaoLife){        beiPiaoLife.oneDay(name);    }}

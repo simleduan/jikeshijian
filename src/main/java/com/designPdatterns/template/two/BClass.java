@@ -1,0 +1,1 @@
+package com.designPdatterns.template.two;public class BClass {    public void process(ICallback callback) {        //...        callback.methodToCallback();        //...    }}
