@@ -1,1 +1,0 @@
-person:  age: 11  friend: zyl  maps: {akey: avalue,bkey: bvalue,ckey: cvalue}  list:    - lisi    - wangwu    - zhaoliu    - haha  dog:    name: smalldog  name: aaserver:  port: 7777

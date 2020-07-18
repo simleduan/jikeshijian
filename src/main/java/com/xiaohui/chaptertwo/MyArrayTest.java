@@ -1,1 +1,0 @@
-package com.xiaohui.chaptertwo;public class MyArrayTest {    public static void main(String[] args) {        MyArray myArray = new MyArray(10);        myArray.insert(2,0);        myArray.insert(4,1);        myArray.insert(5,2);        myArray.insert(6,3);        myArray.insert(8,2);        myArray.insert(8,11);        myArray.output();    }}
