@@ -1,0 +1,1 @@
+package com.study.proxy;public interface Developer {    void code();    void debug();}

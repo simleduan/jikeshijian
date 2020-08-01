@@ -1,0 +1,1 @@
+package com.study.proxy;public class JavaDeveloper implements Developer {    @Override    public void code() {        System.out.println("我在敲代码");    }    @Override    public void debug() {        System.out.println("我在改bug");    }}

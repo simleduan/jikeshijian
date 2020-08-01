@@ -1,1 +1,0 @@
-package com.mainshi.proxy;public interface Developer {    void code();    void debug();}
