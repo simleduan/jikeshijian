@@ -1,0 +1,1 @@
+package com.study.annocation;import org.junit.Test;public class TestTable {    public void execute(){        System.out.println("excute running");    }    @Test    public void testExecute(){        execute();    }}

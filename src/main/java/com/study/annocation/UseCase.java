@@ -1,0 +1,1 @@
+package com.study.annocation;import java.lang.annotation.*;/** * 项目测试用例注解 */@Target(ElementType.METHOD)@Retention(RetentionPolicy.RUNTIME)@Documented@Inheritedpublic @interface UseCase {    int id();    String description() default "no description";}

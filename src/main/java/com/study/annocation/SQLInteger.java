@@ -1,0 +1,1 @@
+package com.study.annocation;public interface SQLInteger {}
